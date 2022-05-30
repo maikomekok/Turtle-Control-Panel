@@ -1,6 +1,8 @@
 import turtle
 from tkinter import*
-turtle.speed(0) 
+turtle.speed(0)
+i = 0
+bla = 10 
 def colorred():
   turtle.color("red")
 
